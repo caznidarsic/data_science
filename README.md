@@ -2,7 +2,7 @@ This repository contains a sampling of the work I did for a Master's level Data 
 
 1. Performing Extract Transform Load (ETL) on a coffee shop dataset using SQLite.
 2. Performing Exploratory Data Analysis (EDA) on an Insurance dataset.
-3. Using mathematical distributions to model a Trout Length dataset, as well as a dataset containing the number of days for a software team to clear tickets.
+3. Using mathematical distributions to model the "Length" variable of a Trout Length dataset, as well as a dataset containing the number of days for a software team to clear tickets.
 4. Performing EDA and using mathematical distributions to model the "Rings" variable on an Abalone dataset.
 5. Performing ETL, EDA and Statistical Modeling for a car MPG dataset.
 6. Creating and evaluating a Linear Regression model for the MPG variable of the car dataset.
