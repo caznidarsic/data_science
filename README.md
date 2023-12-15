@@ -6,4 +6,4 @@ This repository contains a sampling of the work I did for a Master's level Data 
 4. Performing EDA and using mathematical distributions to model the "Rings" variable on an Abalone dataset.
 5. Performing ETL, EDA and Statistical Modeling for a car MPG dataset.
 6. Creating and evaluating a Linear Regression model for the MPG variable of the car dataset.
-7. Machine Learning using K-Nearest Neighbors regression for the Insurance dataset, and comparing the KNN model with our Linear Regression model using Bayesian Inference.
+7. Machine Learning using K-Nearest Neighbors regression for the Insurance dataset, and comparing the KNN model with the Linear Regression model using Bayesian Inference.
